@@ -1,0 +1,58 @@
+:root,
+html {
+  font-size: 20px;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #2F80ED;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+}
+
+h2 {
+  color: #999;
+  font-size: 1em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+}
+
+p {
+  margin: 0 0 1rem;
+  padding: 0.25rem 0.5rem;
+}
+
+ul {
+  margin: 0 0 1rem;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+}
+
+li a:hover {
+  border-radius: 0.25rem;
+}
+
+.container {
+  max-width: 25rem;
+  padding: 2rem;
+}
